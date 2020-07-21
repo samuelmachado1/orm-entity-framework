@@ -7,3 +7,5 @@ Contém um projeto pré-configurado para usar o Entity Framework Core com banco 
 
 ![Screenshot](mer.png)
 
+**Desafio desenvolvido por Samuel Machado no programa de aceleração em C# da Codenation patrocinado pela Wiz Soluções.**
+
